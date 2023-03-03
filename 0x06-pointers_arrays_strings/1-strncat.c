@@ -5,7 +5,8 @@
  * @src: copy from
  * @n: char to be copied
  * Return: dest
- */char *_strncat(char *dest, char *src, int n)
+ */
+char *_strncat(char *dest, char *src, int n)
 {
 	int i;
 	int j;
